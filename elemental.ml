@@ -67,4 +67,5 @@ let elements_of_string elements s =
 ;;
 
 let out = elements_of_string ["h";"he";"li";"be";"b";"c";"o";"n";"f";"ne";"na";"mg"] "neon";;
+assert (out = Some([["ne";"o";"n"]]));;
     

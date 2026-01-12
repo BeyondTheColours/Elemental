@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/Elemental/META"
+  "_build/install/default/lib/Elemental/dune-package"
+  "_build/install/default/lib/Elemental/opam"
+]
+bin: [
+  "_build/install/default/bin/elemental"
+]
